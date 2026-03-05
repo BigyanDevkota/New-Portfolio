@@ -1,0 +1,223 @@
+{
+  "personalInfo": {
+    "name": "Bigyan Devkota",
+    "role": "Indie Dev",
+    "tagline": "An IT Student",
+    "bio": "I am a Computer Science & IT student building real-world digital products. I take ideas from concept to deployment with an independent developer mindset - focused on ownership, efficiency, and shipping.",
+    "aboutBio": "From validating an idea to designing the UI, writing scalable code, integrating monetization, optimizing performance, and deploying to production, I take full ownership of the entire lifecycle. As an indie dev, I believe execution matters more than theory.My goal is simple: build products that deliver real value & and make them better with every iteration.",
+    "avatar": "/images/profile.png",
+    "aboutImage": "/images/about.png",
+    "typingTexts": [
+      "Indie Dev",
+      "App Developer",
+      "Student"
+    ],
+    "details": {
+      "domain": "App Development (Flutter) & Backend Development (Express.js)",
+      "education": "Bachelor of Science in Computer Science and Information Technology",
+      "languages": "Nepali, English, Hindi",
+      "tools": "Figma, Git, GitHub & Photoshop",
+      "otherSkills": "Docker, Python, Django & SEO",
+      "interests": "Coding, Singing, Writing (Lyrics & Poetry)"
+    },
+    "stats": {
+      "projectsCompleted": 4
+    },
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/bigyan-devkota/",
+      "github": "https://github.com/BigyanDevkota",
+      "youtube": "https://www.youtube.com/@ScienceDevkota",
+      "twitter": "https://twitter.com/bigyan_99",
+      "facebook": "https://www.facebook.com/bigyan.devkota.3"
+    },
+    "contact": {
+      "address": "Bharatpur, Nepal",
+      "email": "developerbigyan11@gmail.com",
+      "questionFormLink": "https://docs.google.com/forms/d/e/1FAIpQLScf5ZYC8jAQ8IiOeaKvah43fDpY8TTjDgOTqAVJAHMpEaVbZg/viewform?usp=sf_link"
+    }
+  },
+  "skills": [
+    {
+      "name": "React.js",
+      "level": 60,
+      "category": "Full-Stack Web"
+    },
+    {
+      "name": "Node.js (Express.js)",
+      "level": 60,
+      "category": "Full-Stack Web"
+    },
+    {
+      "name": "HTML/CSS/Tailwind CSS",
+      "level": 70,
+      "category": "Full-Stack Web"
+    },
+    {
+      "name": "Firebase",
+      "level": 75,
+      "category": "Full-Stack Web"
+    },
+    {
+      "name": "Flutter",
+      "level": 85,
+      "category": "Cross-Platform Mobile"
+    },
+    {
+      "name": "Firebase",
+      "level": 75,
+      "category": "Cross-Platform Mobile"
+    },
+    {
+      "name": "Node.js (Express.js)",
+      "level": 60,
+      "category": "Cross-Platform Mobile"
+    },
+    {
+      "name": "App Store Optimization (ASO)",
+      "level": 75,
+      "category": "Cross-Platform Mobile"
+    },
+    {
+      "name": "Dart",
+      "level": 80,
+      "category": "Programming Languages"
+    },
+    {
+      "name": "Javascript",
+      "level": 75,
+      "category": "Programming Languages"
+    },
+    {
+      "name": "C",
+      "level": 80,
+      "category": "Programming Languages"
+    },
+    {
+      "name": "C++",
+      "level": 60,
+      "category": "Programming Languages"
+    },
+    {
+      "name": "Python",
+      "level": 50,
+      "category": "Programming Languages"
+    },
+    {
+      "name": "MySQL",
+      "level": 65,
+      "category": "Database Architecture"
+    },
+    {
+      "name": "SQLite",
+      "level": 50,
+      "category": "Database Architecture"
+    },
+    {
+      "name": "MongoDB",
+      "level": 50,
+      "category": "Database Architecture"
+    },
+    {
+      "name": "Figma",
+      "level": 70,
+      "category": "Design & Prototyping"
+    },
+    {
+      "name": "Photoshop",
+      "level": 50,
+      "category": "Design & Prototyping"
+    },
+    {
+      "name": "Git & Github",
+      "level": 75,
+      "category": "Tools"
+    },
+    {
+      "name": "Admob",
+      "level": 80,
+      "category": "Tools"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor",
+      "institution": "Tribhuvan University",
+      "period": "Running",
+      "subject": "Computer Science and Information Technology"
+    },
+    {
+      "degree": "Higher Secondary Level",
+      "institution": "Valmiki Shikshya Sadan",
+      "period": "2020-2023",
+      "subject": "Science (Bio)"
+    },
+    {
+      "degree": "Primary & Secondary Level",
+      "institution": "Siddhartha English Secondary Boarding School",
+      "period": "2010-2020",
+      "subject": "English, Nepali, Maths, Science, Computer, Social, etc"
+    }
+  ],
+  "projects": [
+    {
+      "id": "youtube-clone-macbook",
+      "title": "YouTube Clone (MacBook Version)",
+      "description": "UI/UX Project",
+      "details": "Made By Using Figma",
+      "image": "/images/yt_clone_pro1.png",
+      "tags": [
+        "UI/UX",
+        "Figma"
+      ],
+      "link": "https://www.figma.com/proto/4uWWbqGOjHnL31q8LGZTps/Untitled?type=design&node-id=1-2&t=2HiPsJ5wsWGncY1q-0&scaling=scale-down&page-id=0%3A1"
+    },
+    {
+      "id": "youtube-clone-mobile",
+      "title": "YouTube Clone (Mobile Version)",
+      "description": "UI/UX Project",
+      "details": "Made By Using Figma",
+      "image": "/images/mobile1.png",
+      "tags": [
+        "UI/UX",
+        "Figma"
+      ],
+      "link": "https://www.figma.com/proto/xRgC540l5xy8ugIImYlWuZ/Untitled?type=design&node-id=1-2&t=5lxeucz1zyaE4j4a-0&scaling=scale-down&page-id=0%3A1"
+    },
+    {
+      "id": "questionnaire-game",
+      "title": "Questionnaire Game",
+      "description": "UI/UX Project",
+      "details": "Made By Using Figma",
+      "image": "/images/pro3.png",
+      "tags": [
+        "UI/UX",
+        "Figma"
+      ],
+      "link": "https://www.figma.com/proto/x6gJgdPhmK1YJpov3uh7bA/Game?type=design&t=wjpQCcrpri0aAe53-0&scaling=scale-down&page-id=0%3A1&node-id=10-20&starting-point-node-id=10%3A20"
+    },
+    {
+      "id": "cover-songs-app",
+      "title": "My Cover Songs Collection App",
+      "description": "UI/UX Project",
+      "details": "Made By Using Figma",
+      "image": "/images/new_music.png",
+      "tags": [
+        "UI/UX",
+        "Figma"
+      ],
+      "link": "https://www.figma.com/proto/KGNecwF0aoCiCsAJtJsvgc/Untitled?node-id=1-2&t=rB1NC36LcdeDyTic-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
+    },
+    {
+      "id": "dice-roller",
+      "title": "A Simple Dice Roller",
+      "description": "Flutter Project",
+      "details": "Made By Using Flutter",
+      "image": "/images/dice.png",
+      "tags": [
+        "Flutter",
+        "Dart"
+      ],
+      "link": "https://github.com/BigyanDevkota/Dice_Roller"
+    }
+  ]
+}
