@@ -77,13 +77,14 @@ export default function Contact() {
                     </p>
                 </motion.div>
 
-                <div className="grid lg:grid-cols-5 gap-8 items-stretch">
-                    {/* Quick Info */}
+                {/* Quick Info */}
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 items-stretch">
                     <motion.div
                         initial={{ opacity: 0, x: -20 }}
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
-                        className="lg:col-span-2 space-y-4"
+                        // md:col-span-2 ensures it takes full width on tablets before splitting in 5 on LG
+                        className="md:col-span-2 lg:col-span-2 space-y-4"
                     >
                         {contactCards.map((card, i) => (
                             <a
@@ -125,9 +126,12 @@ export default function Contact() {
                                 ))}
                             </div>
                         </div> */}
-                        <div className="pt-8">
+                        {/* <div className="pt-8">
                             <p className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-6">Follow Me</p>
-                            <div className="flex gap-4">
+                            <div className="flex gap-4"> */}
+                        <div className="pt-8 text-center md:text-left">
+                            <p className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-6">Follow Me</p>
+                            <div className="flex justify-center md:justify-start gap-4">
                                 {socialLinks.map((link) => (
                                     <a
                                         key={link.name}
@@ -150,9 +154,9 @@ export default function Contact() {
                         initial={{ opacity: 0, x: 20 }}
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
-                        className="lg:col-span-3"
+                        className="md:col-span-2 lg:col-span-3"
                     >
-                        <div className="relative h-full p-10 sm:p-12 rounded-[2.5rem] glass-panel border-primary/10 overflow-hidden flex flex-col justify-center">
+                        <div className="relative h-full p-8 sm:p-12 rounded-[2.5rem] glass-panel border-primary/10 overflow-hidden flex flex-col justify-center">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-primary/10 rounded-full blur-[80px] -z-10" />
 
                             <h3 className="text-3xl font-black mb-6 tracking-tight">Project Inquiries?</h3>
