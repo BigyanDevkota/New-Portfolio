@@ -187,6 +187,18 @@
       "link": "https://play.google.com/store/apps/details?id=com.framework_detector.app"
     },
     {
+      "id": "Quiz App",
+      "title": "WWE Quiz App",
+      "description": "Flutter Project",
+      "details": "Source Code on GitHub",
+      "image": "/images/wwe_logo.png",
+      "tags": [
+        "Dart",
+        "Flutter"
+      ],
+      "link": "https://github.com/BigyanDevkota/Quiz-App"
+    },
+    {
       "id": "youtube-clone-macbook",
       "title": "YouTube Clone (MacBook Version)",
       "description": "UI/UX Project",
