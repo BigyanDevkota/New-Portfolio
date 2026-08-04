@@ -160,6 +160,33 @@
   ],
   "projects": [
     {
+      "id": "Motify",
+      "title": "Motify: Daily Motivational Quotes",
+      "description": "Flutter Project",
+      "details": "Live App on Google Play Store",
+      "image": "/images/motify.png",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Admob"
+      ],
+      "link": "https://play.google.com/store/apps/details?id=com.motify.quotes"
+    },
+    {
+      "id": "framework-detector-app",
+      "title": "Framework Detector App",
+      "description": "Flutter Project",
+      "details": "Live App on Google Play Store",
+      "image": "/images/framework_detector_logo.png",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Admob",
+        "Ad Mediation"
+      ],
+      "link": "https://play.google.com/store/apps/details?id=com.framework_detector.app"
+    },
+    {
       "id": "youtube-clone-macbook",
       "title": "YouTube Clone (MacBook Version)",
       "description": "UI/UX Project",
@@ -194,31 +221,6 @@
         "Figma"
       ],
       "link": "https://www.figma.com/proto/x6gJgdPhmK1YJpov3uh7bA/Game?type=design&t=wjpQCcrpri0aAe53-0&scaling=scale-down&page-id=0%3A1&node-id=10-20&starting-point-node-id=10%3A20"
-    },
-    {
-      "id": "cover-songs-app",
-      "title": "My Cover Songs Collection App",
-      "description": "UI/UX Project",
-      "details": "Made By Using Figma",
-      "image": "/images/new_music.png",
-      "tags": [
-        "UI/UX",
-        "Figma"
-      ],
-      "link": "https://www.figma.com/proto/KGNecwF0aoCiCsAJtJsvgc/Untitled?node-id=1-2&t=rB1NC36LcdeDyTic-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
-    },
-    {
-      "id": "Motify",
-      "title": "Motify: Daily Motivational Quotes",
-      "description": "Flutter Project",
-      "details": "Made By Using Flutter",
-      "image": "/images/motify.png",
-      "tags": [
-        "Flutter",
-        "Dart",
-        "Admob"
-      ],
-      "link": "https://play.google.com/store/apps/details?id=com.motify.quotes"
     }
   ]
 }
